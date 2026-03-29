@@ -1,0 +1,5 @@
+{
+  "name": "Vlaamse text-to-speech app",
+  "description": "A Flemish (Belgian Dutch) Text-to-Speech app for language learners, featuring monologue and dialogue generation with speed control.",
+  "requestFramePermissions": []
+}
